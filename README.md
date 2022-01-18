@@ -1,6 +1,6 @@
 <h1 align="Center">  Hi There, I'm Harnoor <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> </h1>
 
-I'm a Computer Science Enthusiast  👨‍💻, Currently in my Last Semester in the University of Winnipeg 👨‍🎓
+I'm a Computer Science Enthusiast  👨‍💻, Working on several amazing projects. Nowadays, I am developing my CMS. 👨‍🎓
 
 ----
 
